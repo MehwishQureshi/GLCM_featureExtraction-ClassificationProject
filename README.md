@@ -14,5 +14,5 @@ These features help capture the texture variations useful for tumor detection.
 ## 🧪 Model
 
 - **Classifier**: Logistic Regression (from scratch)
-- **Train/Test Split**: 70% training, 30% testing
+- **Train/Test Split**: 80% training, 20% testing
 - **Accuracy Achieved**: **87.50%**
